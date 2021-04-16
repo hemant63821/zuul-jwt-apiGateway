@@ -1,3 +1,3 @@
-# vimaan-api-gateway
+# Zuul-jwt-api-gateway
 
-vimaan-api-gateway
+Zuul-jwt-api-gateway
